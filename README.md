@@ -1,1 +1,1 @@
-lorem ipsum
+This is a test repository!
